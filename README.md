@@ -31,7 +31,7 @@ Cara Menggunakan:
 1. Clone Repository: Pertama, clone repository ini ke komputer Anda.
 
 
-('''git clone https://github.com/mr4wp/LinkScraper-Pro.git)
+(''')git clone https://github.com/mr4wp/LinkScraper-Pro.git
 #
 
 2. Instal Dependensi: Instal pustaka Python yang dibutuhkan, seperti requests, beautifulsoup4, dan concurrent.futures.
