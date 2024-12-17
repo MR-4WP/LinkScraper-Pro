@@ -1,8 +1,6 @@
 # LinkScraper-Pro
 
 
-LinkScraper Pro - Versi Canggih
-
 LinkScraper Pro adalah alat canggih untuk memindai dan menganalisis tautan (links) pada suatu situs web. Program ini dirancang untuk membantu pengguna memverifikasi dan mengelola tautan di halaman web, baik internal (tautan antar halaman di dalam situs) maupun eksternal (tautan menuju situs lain). Selain itu, alat ini juga memungkinkan pengguna untuk mendeteksi tautan rusak atau tidak valid, yang sangat penting untuk menjaga integritas dan keamanan situs web.
 
 
