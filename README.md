@@ -25,7 +25,7 @@ Penyimpanan Hasil: Menyimpan hasil pemindaian dalam format JSON dan CSV untuk ke
 
 
 #
-Cara Menggunakan:
+Cara Penggunaan:
 
 
 1. Clone Repository: Pertama, clone repository ini ke komputer Anda.
@@ -52,7 +52,7 @@ Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 Masukkan domain situs web yang ingin dipindai saat diminta.
 
-#
+---
 
 
 4. Hasil:
