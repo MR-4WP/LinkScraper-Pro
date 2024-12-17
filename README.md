@@ -37,7 +37,7 @@ git clone https://github.com/mr4wp/LinkScraper-Pro.git
 2. Instal Dependensi: Instal pustaka Python yang dibutuhkan, seperti requests, beautifulsoup4, dan concurrent.futures.
 
 
-(```pip install requests beautifulsoup4)
+(```pip install requests beautifulsoup4```)
 #
 
 
