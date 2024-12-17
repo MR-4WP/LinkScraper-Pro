@@ -40,13 +40,15 @@ git clone https://github.com/mr4wp/LinkScraper-Pro.git
 pip install requests beautifulsoup4
 
 
-4. Jalankan Program:
+
+3. Jalankan Program:
 
 
 Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 
 python linkscraper.py
+
 
 
 Masukkan domain situs web yang ingin dipindai saat diminta.
