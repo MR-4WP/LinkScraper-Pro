@@ -1,4 +1,4 @@
-#LinkScraper - Pro
+# LinkScraper - Pro
 
 
 LinkScraper Pro adalah alat canggih untuk memindai dan menganalisis tautan (links) pada suatu situs web. Program ini dirancang untuk membantu pengguna memverifikasi dan mengelola tautan di halaman web, baik internal (tautan antar halaman di dalam situs) maupun eksternal (tautan menuju situs lain). Selain itu, alat ini juga memungkinkan pengguna untuk mendeteksi tautan rusak atau tidak valid, yang sangat penting untuk menjaga integritas dan keamanan situs web.
@@ -32,13 +32,13 @@ Cara Menggunakan:
 
 
 git clone https://github.com/mr4wp/LinkScraper-Pro.git
-
+#
 
 2. Instal Dependensi: Instal pustaka Python yang dibutuhkan, seperti requests, beautifulsoup4, dan concurrent.futures.
 
 
 pip install requests beautifulsoup4
-
+#
 
 
 3. Jalankan Program:
@@ -52,7 +52,7 @@ python linkscraper.py
 
 
 Masukkan domain situs web yang ingin dipindai saat diminta.
-
+#
 
 4. Hasil:
 
