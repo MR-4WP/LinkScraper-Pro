@@ -10,15 +10,15 @@ Fitur Utama:
 
 
 Pindai Tautan Internal dan Eksternal: Mengidentifikasi dan mengelompokkan tautan dalam situs web menjadi tautan internal dan eksternal.
-#
+---
 Deteksi Tautan Rusak: Mendeteksi tautan yang tidak valid atau yang memberikan kesalahan HTTP, membantu menjaga kualitas dan kinerja situs web.
-#
+--
 Multi-Threading: Menggunakan teknik pemrograman multi-threading untuk memindai halaman lebih cepat dan efisien.
-#
+--
 Ambil Metadata Halaman: Mengambil metadata dari halaman web, seperti judul dan deskripsi halaman, untuk analisis lebih lanjut.
-#
+--
 Penyimpanan Hasil: Menyimpan hasil pemindaian dalam format JSON dan CSV untuk kemudahan analisis dan laporan.
-
+--
 
 #
 Cara Menggunakan:
