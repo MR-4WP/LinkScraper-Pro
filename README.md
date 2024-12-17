@@ -1,4 +1,4 @@
-LinkScraper-Pro
+#LinkScraper - Pro
 
 
 LinkScraper Pro adalah alat canggih untuk memindai dan menganalisis tautan (links) pada suatu situs web. Program ini dirancang untuk membantu pengguna memverifikasi dan mengelola tautan di halaman web, baik internal (tautan antar halaman di dalam situs) maupun eksternal (tautan menuju situs lain). Selain itu, alat ini juga memungkinkan pengguna untuk mendeteksi tautan rusak atau tidak valid, yang sangat penting untuk menjaga integritas dan keamanan situs web.
@@ -31,33 +31,35 @@ Cara Menggunakan:
 1. Clone Repository: Pertama, clone repository ini ke komputer Anda.
 
 
----git clone https://github.com/mr4wp/LinkScraper-Pro.git
+git clone https://github.com/mr4wp/LinkScraper-Pro.git
 
 
 2. Instal Dependensi: Instal pustaka Python yang dibutuhkan, seperti requests, beautifulsoup4, dan concurrent.futures.
 
-   
----pip install requests beautifulsoup4
 
+pip install requests beautifulsoup4
 
 
 4. Jalankan Program:
 
-Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
+Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 
 python linkscraper.py
 
-Masukkan domain situs web yang ingin dipindai saat diminta.
 
+Masukkan domain situs web yang ingin dipindai saat diminta.
 
 
 4. Hasil:
 
+
 Program akan menghasilkan dua file di folder output/:
 
+
 links.json: File JSON yang berisi tautan internal, eksternal, tautan rusak, dan metadata halaman.
+
 
 links.csv: File CSV yang berisi daftar tautan beserta status HTTP mereka.
 #
@@ -78,20 +80,28 @@ Administrator Keamanan Web: Memeriksa situs web untuk memastikan tidak ada tauta
 Penyedia Layanan Audit Web: Membantu dalam audit dan pemeliharaan situs untuk memastikan kelancaran navigasi dan pengalaman pengguna yang optimal.
 #
 
+
 Teknologi yang Digunakan:
+
 
 Python: Bahasa pemrograman yang digunakan.
 
+
 BeautifulSoup: Untuk parsing HTML dan mencari tautan.
+
 
 Requests: Untuk melakukan permintaan HTTP dan memeriksa status tautan.
 
+
 ThreadPoolExecutor: Untuk melakukan scraping dengan menggunakan multi-threading agar proses lebih cepat.
 #
+
 
 Kontribusi:
 
 Jika Anda ingin berkontribusi dalam pengembangan lebih lanjut, Anda dapat melakukan fork repositori ini dan membuat pull request. Semua kontribusi sangat dihargai!
 #
+
+
 Lisensi:
 Program ini dirilis di bawah lisensi MIT.
