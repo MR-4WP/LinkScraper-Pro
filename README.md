@@ -48,11 +48,12 @@ Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 
 python linkscraper.py
-
+#
 
 
 Masukkan domain situs web yang ingin dipindai saat diminta.
 #
+
 
 4. Hasil:
 
