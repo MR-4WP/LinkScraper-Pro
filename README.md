@@ -46,7 +46,7 @@ Cara Penggunaan:
 Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 
-```python linkscraper.py```
+```python main.py```
 
 
 
