@@ -52,7 +52,7 @@ Setelah semua dependensi terpasang, jalankan program dengan perintah berikut:
 
 Masukkan domain situs web yang ingin dipindai saat diminta.
 
----
+#
 
 
 4. Hasil:
